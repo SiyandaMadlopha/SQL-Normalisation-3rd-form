@@ -1,4 +1,4 @@
-# SQL-Normalisation-3rd-form
+# SQL-Normalisation-3NF-form
 
 The Bhejane Trading store is an online retailer specializing in the sale of covid-related essential items. As a
 consultant hired by the company, you have been tasked with the objective of normalizing the database of the
